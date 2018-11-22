@@ -32,7 +32,7 @@ namespace SortTestHelper {
     void printArray(T arr[], int n) {
 
         for (int i = 0; i < n; i++)
-            cout << arr[i] << "12 ";
+            cout << arr[i] << "12 34";
         cout << endl;
 
         return;
